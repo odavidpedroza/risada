@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Risada do Bola</string>
+    <string name="image_content_description">Image</string>
+    <string name="play_button_content_description">Play</string>
+    <string name="pause_button_content_description">Pause</string>
+    <string name="share_button_content_description">Share</string>
+    <string name="share_message">Check out this awesome sound from Risada do Bola! Download the app here: [APP_STORE_LINK]</string>
+    <string name="rate_app_button_content_description">Rate App</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Risada do Bola</string>
+    <string name="image_content_description">Imagem</string>
+    <string name="play_button_content_description">Reproduzir</string>
+    <string name="pause_button_content_description">Pausar</string>
+    <string name="share_button_content_description">Compartilhar</string>
+    <string name="share_message">Confira este som incrível da Risada do Bola! Baixe o aplicativo aqui: [LINK_DA_LOJA_DE_APLICATIVOS]</string>
+    <string name="rate_app_button_content_description">Avaliar Aplicativo</string>
+</resources>
